@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sudo1yas
-- 👀 I’m interested in web2.0(Php-Laravel) and web3.0(Solidity)
-
+- Working on a Laravel project? Working on a Solidity project? You can find some solutions to your problems here. Enjoy!
 
 <!---
 sudo1yas/sudo1yas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
